@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1066625140237",
+    "project_id": "ride-hailing-7c2a6",
+    "storage_bucket": "ride-hailing-7c2a6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066625140237:android:e693ae5e96d760cfb27744",
+        "android_client_info": {
+          "package_name": "com.example.uber_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsIAu3EuJZ0XuxJZ4E97jp5V6OpyA21E4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
