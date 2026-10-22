@@ -3,8 +3,15 @@ import 'package:uber_clone/core/themes/custom_themes/custom_text_theme.dart';
 
 class AppTheme {
   static ThemeData lightMode = ThemeData(
-    textTheme: CustomTextTheme.lightTextTheme,
+    useMaterial3: true,
     brightness: Brightness.light,
+    primaryColor: Colors.black,
+    scaffoldBackgroundColor: Colors.white,
+    colorScheme: const ColorScheme.light(
+      primary: Colors.black,
+      onPrimary: Colors.white,
+    ),
+    textTheme: CustomTextTheme.lightTextTheme,
   );
   static ThemeData darkMode = ThemeData(
     brightness: Brightness.dark,

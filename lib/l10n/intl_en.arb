@@ -1,0 +1,11 @@
+{
+  "skip": "Skip",
+  "next": "Next",
+  "getStarted": "Get Started",
+  "onboarding1Title": "Welcome to Ride-hailing",
+  "onboarding1Description": "Discover a smarter way to move around the city. Wherever you are, your next ride is just a tap away.",
+  "onboarding2Title": "Track Your Ride in Real Time",
+  "onboarding2Description": "Know exactly where your driver is with live tracking and clear ETAs—no more guessing or waiting in the dark.",
+  "onboarding3Title": "Fast, Reliable, and On-Time",
+  "onboarding3Description": "Skip the delays. Get matched with nearby drivers and reach your destination quickly and safely."
+}
